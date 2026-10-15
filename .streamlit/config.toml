@@ -1,0 +1,15 @@
+[theme]
+base = "light"
+primaryColor = "#FF6A00"
+backgroundColor = "#FFFFFF"
+secondaryBackgroundColor = "#F2F6FF"
+textColor = "#17233D"
+borderColor = "#D9E2F2"
+showWidgetBorder = true
+baseRadius = "10px"
+buttonRadius = "8px"
+greenColor = "#16856B"
+orangeColor = "#D85D00"
+redColor = "#C83F57"
+blueColor = "#3478C8"
+violetColor = "#7357C7"
